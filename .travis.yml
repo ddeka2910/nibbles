@@ -1,6 +1,9 @@
 os: linux
 dist: bionic
 language: generic
+arch:
+ - amd64
+ - ppc64le
 
 env:
   jobs:
